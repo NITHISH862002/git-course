@@ -1,2 +1,5 @@
 add and remove users
 chenge the rules
+
+manage the db 
+closing the connection
