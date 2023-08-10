@@ -1,8 +1,3 @@
-add and remove users
-chenge the rules
-
-manage the db 
-closing the connection
-
+***************
 chenge 1
 chenge 2 in my db
