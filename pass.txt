@@ -6,3 +6,6 @@ create a avatar for user
 crete an ava for user
 
 login and logout
+
+
+chenge 1
