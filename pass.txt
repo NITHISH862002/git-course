@@ -1,3 +1,6 @@
 passwords are to be kept secretly
 
 process
+
+create a avatar for user
+crete an ava for user
